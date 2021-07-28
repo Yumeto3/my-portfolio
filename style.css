@@ -1,0 +1,22 @@
+header {
+  background: url(https://img.howtoniigata.jp/2021/03/12092300/14_taku.6.6.jpg);
+  color: white;
+  width: 100%;
+  height: 60px;
+  font-size: 38px;
+}
+
+marquee {
+  font-family: fantasy;
+}
+img {
+  width: 40%;
+}
+
+h2 {
+  padding-left: 200px;
+}
+
+main {
+  background: url(https://thumb.ac-illust.com/f2/f24b5130d2f8852156b3c128b158d6ba_t.jpeg);
+}
